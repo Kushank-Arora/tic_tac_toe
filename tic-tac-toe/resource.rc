@@ -1,0 +1,9 @@
+#ifndef _resource_rc
+#define _resource_rc
+
+#include "resource.h"
+
+ IDB_BITMAP1       BITMAP         ".\\back.bmp"
+ IDC_CUR         CURSOR             ".\\abc.cur"
+ MY_ICON2    ICON    ".\\big.ico"
+#endif

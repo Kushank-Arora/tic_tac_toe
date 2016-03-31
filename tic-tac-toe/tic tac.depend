@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1427104507 source:c:\users\kushank\documents\codeblock\tic tac\main.cpp
+	<tchar.h>
+	<stdio.h>
+	<windows.h>
+	"resource.h"
+
+1426881898 source:c:\users\kushank\documents\codeblock\tic tac\temp.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+	<time.h>
+
+1427044874 c:\users\kushank\documents\codeblock\tic tac\resource.h
+
+1429644965 source:c:\users\kushank\documents\codeblock\tic tac\resource.rc
+	"resource.h"
+
+1426862098 source:e:\study\working\codeblock\tic tac\temp.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<dos.h>
+	<time.h>
+
+1459261783 source:e:\study\working\codeblock\tic tac\resource.rc
+	"resource.h"
+
+1427025074 e:\study\working\codeblock\tic tac\resource.h
+
+1459261793 source:e:\study\working\codeblock\tic tac\main.cpp
+	<tchar.h>
+	<stdio.h>
+	<windows.h>
+	"resource.h"
+
+1459261783 source:e:\study\working\codeblock\tic-tac-toe\resource.rc
+	"resource.h"
+
+1427025074 e:\study\working\codeblock\tic-tac-toe\resource.h
+
+1459264576 source:e:\study\working\codeblock\tic-tac-toe\main.cpp
+	<tchar.h>
+	<stdio.h>
+	<windows.h>
+	"resource.h"
+
